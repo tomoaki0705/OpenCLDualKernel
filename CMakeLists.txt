@@ -13,4 +13,3 @@ add_executable(${TARGET_NAME} main.cpp)
 
 # set the link
 #target_link_libraries(${TARGET_NAME} ${OpenCV_LIBS})
-~
